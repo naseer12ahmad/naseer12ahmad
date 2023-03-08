@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naseer Ahmad</h1>
 <h3 align="center">A passionate Front-End Web Developer😎</h3>
 
-- 🔭 I’m currently working on [Front-end development](https://refugeelearningnest.com/)
-
 - 👯 I’m currently learning **PHP, MSQL**
 
 - 👨‍💻 All of my projects are available at [https://naseerahmad.netlify.app/](https://naseerahmad.netlify.app/)
@@ -13,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naseerah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naseerah/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nasirnawruzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nasirnawruzi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/naseer-ah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naseer-ah" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/nasirnawruzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nasirnawruzi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
