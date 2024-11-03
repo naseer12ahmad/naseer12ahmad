@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, SEO, WordPress, Squarespace**
 
-- 📫 How to reach me **nasirnawruzi@gmail.com**
+- 📫 How to reach me **naseernawruzi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
